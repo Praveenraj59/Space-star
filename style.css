@@ -9,9 +9,6 @@
   background-position: center;
   height: 100vh;
 }
-.navbar{
-  margin: auto;
-}
 .logo{
   height: 60px;
   padding: 10px;
@@ -47,5 +44,5 @@ ul li a{
   transition: 0.4s;
 }
  ul li a:hover{
-  color: rgb(59, 59, 154);
+  color: rgba(59, 59, 154, 0.325);
  }
