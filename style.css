@@ -44,5 +44,5 @@ ul li a{
   transition: 0.4s;
 }
  ul li a:hover{
-  color: rgba(59, 59, 154, 0.325);
+  color: rgb(198, 84, 53);
  }
