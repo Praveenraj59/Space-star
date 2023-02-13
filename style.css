@@ -43,6 +43,23 @@ ul li a{
   transition: 0.4s ease-in-out;
 }
  ul li a:hover{
-  color: rgb(198, 84, 53);
+  color: rgb(208, 102, 73);
   
+ }
+ .body h1{
+  color: aliceblue;
+  margin-top: 230px;
+  margin-left: 900px;
+  font-family: monospace;
+  font-weight: lighter;
+  font-size: 45px;
+  word-spacing: 19px;
+  letter-spacing: 8px; 
+ }
+ .body h1:hover{
+  cursor: pointer;
+  color: rgb(208, 102, 73);
+ font-size-adjust: inherit;
+ transition: 0.4s;
+
  }
