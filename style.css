@@ -3,30 +3,28 @@
   margin: 0%;
 }
 .main{
-  width: 100%;
+  width: fixed;
   background: url(./img/background.jpg) ; 
   background-size: cover;
   background-position: center;
   height: 100vh;
 }
 .logo{
+  width: 110px;
   height: 60px;
   padding: 10px;
   padding-top: 20px;
   cursor: pointer;
 }
-.icon{
-  height: 100%;
-  width: 100%;
-}
 
 .menu{
-  width: 400px;
-  float: left;
+  width: 10px;
+  float: right;
   height: 70px;
+  padding-right: 30px;
 }
 ul{
-  float: left;
+  float: right;
   display: flex;
   justify-content: center;
   align-items: center;
