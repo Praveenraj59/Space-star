@@ -8,6 +8,7 @@
   background-size: cover;
   background-position: center;
   height: 100vh;
+  color: aliceblue;
 }
 .logo{
   width: 110px;
@@ -21,8 +22,10 @@
   width: 10px;
   float: right;
   height: 70px;
-  padding-right: 30px;
+  padding-right: 70px;
+  padding-top: 10px;
 }
+
 ul{
   float: right;
   display: flex;
