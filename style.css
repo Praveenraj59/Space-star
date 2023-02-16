@@ -66,13 +66,14 @@ ul li a{
  transition: 0.4s;
 
  }
-.footer {
-  text-decoration: none;
-  font-family: monospace;
+#footer {
   line-height: 25px;
-  font-size: 15px;
   padding-left: 290px;
   padding-top: 20px;
   background-image: url();
 }
-.footer 
+#footer a{
+  text-decoration: none;
+  font-family: monospace;
+  font-size: 15px;
+}
