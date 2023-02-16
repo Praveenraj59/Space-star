@@ -66,3 +66,13 @@ ul li a{
  transition: 0.4s;
 
  }
+.footer {
+  text-decoration: none;
+  font-family: monospace;
+  line-height: 25px;
+  font-size: 15px;
+  padding-left: 290px;
+  padding-top: 20px;
+  background-image: url();
+}
+.footer 
