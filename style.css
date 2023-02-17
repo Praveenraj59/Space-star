@@ -7,7 +7,7 @@
   background: url(./img/background.jpg) ; 
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 97vh;
   color: aliceblue;
 }
 .logo{
@@ -70,10 +70,19 @@ ul li a{
   line-height: 25px;
   padding-left: 290px;
   padding-top: 20px;
-  background-image: url();
+  background-color: #17263C;
 }
 #footer a{
   text-decoration: none;
   font-family: monospace;
   font-size: 15px;
+  color: aliceblue;
+  font-weight: 700;
+  letter-spacing: 1.3px;
+}
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 15px;
+  background-color: #838486;
+  padding: 2.5px;
 }
